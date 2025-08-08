@@ -1,0 +1,68 @@
+nao é linguagem de programacao
+nao é possivel detectar alguns erros so olhando lmao
+HTML = hypertext markup language
+     -> usado p criar pagina de web ("utilizado primariamente pra estruturar o conteudo na web")
+
+usa tags p expressar coisas na pagina (paragrafos, imagens, links, listas......)
+---> se não usar, não vai conseguir renderizar a pg corretamwnte
+
+
+<!DOCTYPE> - declara q versao do html ta sendo usado (no nosso caso, HTML5)
+<html> - sempre usado p começar o codigo. contem todo o resto. tipo o int main()
+<head> - "Contém metadados, links para folhas de estilo CSS, scripts e outras informações que não 
+          são diretamente exibidas na parte visual da pagina"
+<body> - todo o conteudo visivel na pagina.
+
+<> -> colchetes angulares
+
+p criar arquivo html: 
+sem acento
+sem cedilha
+sem caracter especial
+
+-> INDENTAÇÃO!!!!!!!!!!!!!!
+
+pra abrir o codigo:
+html
+pra fechr o codigo:
+\html
+
+--> TAGS:
+<h1> titulo </h1> - titulo
+<p> conteudo </p> - paragrafo 
+<a> conteudo </a> - link 
+<footer> conteudo </footer> - nota de rodapé
+
+CSS (cascading style sheets) para formatar apresentação visual da página
+JavaScript para adicionar interatividade
+
+quando usar html?
+- sites corporativos
+- portais de noticia
+- blogs
+- loja online... 
+- basicamente qualquer coisa que esteja na net
+
+caminho absoluto:
+"local exato de um arquivo ou diretorio a partir de sua pasta raiz (root) do sistema de arquivos (file system)"
+"o diretorio raiz é representado por uma barra(/) em sistemas operacionais baseados no unix (como o linux), e por uma barra invertida (\)
+nos sistemas windows"
+--> exemplo: C:\Users\Nome\Documentos\documentos.txt
+raiz: C:\
+subdiretórios: Users\Nome\Documentos\
+arquivo: \documentos.txt
+
+caminho relativo:
+caminho mais facil do arquivo.
+
+links no quadro:
+https://www.w3schools.com
+https://www.w3schools.com/TAGS/default.asp
+https://diegomariano.com/tags-html/
+
+
+a)<img scr="https://sites.com/imagem.jpn">: absoluto 
+b)<a href="paginas;ajuda.html">Ajuda</a>: relativo
+c)
+d)
+
