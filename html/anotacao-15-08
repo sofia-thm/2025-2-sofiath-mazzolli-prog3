@@ -1,0 +1,36 @@
+HTML - Tags Semânticas
+
+semãntica = "significado que uma tag transmite sobre o conteúdo
+--> facilita a compreensão, tanto para humanos quanto para máquinas
+
+
+"são elementos html que dão sentido/significado específico ao conteúdo de uma página"
+--> indentação. sempre.
+
+<header> - cabeçalho
+<nav> - links principais de navegação
+<main> - conteúdo principal da página. apenas um por página
+<section> - agrupar conteúdo relacionado dentro de um tópico
+<article> - conteúdo independente - artigos, postagens, notícias... 
+<aside> - informações extras (anúncios, links...)
+<footer> - nota de rodapé
+<figure> - figura com legenda. legenda: <figcaption>
+<mark> - marca partes relevantes do texto
+<time> - data e hora
+
+não usar section para cosméticos
+não colocar section dentro de section 
+
+cabeçalho:
+header 
+    h1 Programação III /h1
+    h2 Tag semantica /h2
+/header 
+
+footer 
+    p site poggers /p 
+    p publicado em 2022 /p 
+/footer 
+
+
+
