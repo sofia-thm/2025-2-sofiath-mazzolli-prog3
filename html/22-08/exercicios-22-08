@@ -1,0 +1,77 @@
+<<!DOCTYPE html>
+
+<html lang="PT-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" contnet="width=device-witdh, initial-scale=1.0">
+
+        <title>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</title>
+    </head>
+
+    <body>
+        <header> 
+            <h1>Reprodução minhocácea</h1>
+        </header>
+    <ul>
+        <li><a href="#Sobre">Sobre</a></li>
+        <li><a href="#Contato">Contato</a></li>
+    </ul>
+
+    <section id="Sobre">
+        <h3>Sobre</h3>
+        <p> Minhocas são, na verdade, hemafroditas, contendo ambos órgãos femininos e masculinos,
+            podendo exercer ambas funções na reprodução.</p>
+        <p>Devido a este fato, quando duas minhocas se reproduzem, ambas saem grávidas :^)</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        <p>minhocas</p>
+        
+    </section>
+
+    <section id="Contato">
+        <h3>Contato</h3>
+        <p>Email: professorminhoca@gmail.com</p>
+        <p>Telefone: 49 3322-4849</p>
+        <p>Endereço: Rua dos Bobos, n°0</p>
+    </section>
+    
+
+    
+    </body>
+
+</html>
