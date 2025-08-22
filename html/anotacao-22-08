@@ -1,0 +1,44 @@
+<a>
+para abrir link externo:
+<a href="https://www.w3schools.com" target="_blank" </a>
+
+para abrir link interno:
+<a href="contato.html">página de contato</a>
+nao funciona se "a pagina nao tiver no lugar correto"
+--> usar caminho relativo correto. se nao, nao funciona
+
+link na mesma pagina (âncora)
+<a href="#sobre">Ir para a seção Sobre</a>
+
+<section id="sobre">
+    <h2>Sobre o curso</h2>
+    <p>Este curso aborda edsenvolvimento web...</p>
+</section>
+
+LISTAS EM HTML
+- ul: "lista nao ordenada" (unordered list)
+listas sem hierarquia numérica
+itens da lista dentro da tag li (list item)
+<section>
+    <h2>ingredientes</h2>
+    <ul>
+        <li>3c maizena</li>
+        <li>500ml leite</li>
+        <li>2c chá açúcar</li>
+    </ul>
+</section>
+obs: se abrir apenas no primeiro item e fechar apenas no ultimo, vai aparecer tudo na mesma linha como um item só. 
+
+
+- ol: "listas ordenadas" (ordered list)
+primeiro passo, segundo passo... 
+
+- dl: lista de definiçao
+dt: termo (verbete) - em fonte maior
+dd: definição do termo/verbete - em fonte menor
+que nem um dicionário ou enciclopedia
+
+---> usa-se dentro das tags:
+header, main, section, nav... 
+não usar em body. 
+
