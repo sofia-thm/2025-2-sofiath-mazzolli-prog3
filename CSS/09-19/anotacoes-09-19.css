@@ -1,0 +1,38 @@
+/*
+seletores css - "usados para definir quais elementos html devem receber estilizçao"
+sintaxe: selecionam todos os elementos de um tederminado tipo no documento html:
+p{
+    color: blue;
+}
+
+seletor de classe seleciona elementos html com um atributo de classe especificio
+para selecionar elementos com ua classe especifica, escreva um caractere de periodo (.) seguido pelo noe da classe
+.nome-classe{
+    font-weight: bold;
+}
+
+id: "usa o atributo id de um elemento html para selecionar um elemento especifico"
+unico dentro de uma pagina (usado p selecionar um elemento unico)
+#nome_do_id{
+    text-align: center;
+    color: red;
+}
+
+atributo: "visam elementos com base em seus atributos e valores de atributos"
+input[type="text"]{
+    border-color: red;
+}
+
+pseudoelemento: "permite estilizar elementos com base em seu estado ou condiçao, como :hover"
+ou
+"estilizar partes espeicificas de um elemento"
+p::first-letter{
+    font-size: 200%
+}
+
+universais: "util para aplicar um estilo a todos os elementos dentro de um contrxto especifico"
+*{
+    box-sizing: border-box;
+}
+
+*/
